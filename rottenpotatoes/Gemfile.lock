@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    ZenTest (4.11.0)
+    ZenTest (4.11.2)
     actionmailer (4.2.10)
       actionpack (= 4.2.10)
       actionview (= 4.2.10)
@@ -181,7 +181,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  ZenTest (= 4.11.0)
+  ZenTest (= 4.11.2)
   byebug
   capybara (= 2.4.4)
   coffee-rails (~> 4.1.0)
@@ -202,4 +202,4 @@ RUBY VERSION
    ruby 2.4.0p0
 
 BUNDLED WITH
-   1.16.1
+   1.17.3
